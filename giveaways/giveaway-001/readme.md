@@ -10,7 +10,7 @@
   6. Comenta tu username de github y que tan dificil fue.
 
 ## Dudas Daniel-San?
-Ven al Dojo 
+Ven al Dojo https://discord.gg/UHK8xUJ96n
 
  ### Problema
  Dandote un par de listas que contienen numeros y debemos retornar la suma de todos los numeros dentro de nuestras listas.
