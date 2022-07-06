@@ -1,5 +1,5 @@
 # Giveaway-001
- ## Premio - $30 Giftcard! 💰
+ ## Premio - $30 Giftcard! 💰 Deadline - 20 de Julio 2022.
  ## Como participar 
   1. Crea un archivo "nombre-de-usuario.js | py | ts " o cualquier lenguaje que prefieras
   2. Resuelve el problema
