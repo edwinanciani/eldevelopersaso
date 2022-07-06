@@ -1,5 +1,5 @@
 # Giveaway-001
- ## Premio - $30 Giftcard!
+ ## Premio - $30 Giftcard! 💰
  ## Como participar 
   1. Crea un archivo "nombre-de-usuario.js | py | ts " o cualquier lenguaje que prefieras
   2. Resuelve el problema
@@ -10,7 +10,7 @@
   6. Comenta tu username de github y que tan dificil fue.
 
 ## Dudas Daniel-San?
-Ven al Dojo https://discord.gg/UHK8xUJ96n
+Ven al Dojo https://discord.gg/UHK8xUJ96n  
 
  ### Problema
  Dandote un par de listas que contienen numeros y debemos retornar la suma de todos los numeros dentro de nuestras listas.
