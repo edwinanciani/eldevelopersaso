@@ -6,8 +6,7 @@ class Solution {
         int sum=0;
         for(int i=0;i<l.length;i++){
             sum=sum+l[i];
-        }
-        
+        }       
 
         return sum;
     }
@@ -19,10 +18,7 @@ class Solution {
         int res1=sumList(lista1);
         System.out.println(res1);
         int res2=sumList(lista2);
-        System.out.println(res2);
-
-
-        
+        System.out.println(res2);        
    
     }
 }
