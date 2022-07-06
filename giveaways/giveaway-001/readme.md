@@ -7,7 +7,7 @@
   4. Crea un Pull Request con tu archivo 
   5. Ve a https://www.tiktok.com/@eldevelopersaso
   6. Sigue a @eldevelopersaso
-  7. Dale like al video Giveaway-001
+  7. Dale like y comparte el video Giveaway-001
   8. Comenta tu username de github y que tan dificil fue.
 
 ## Dudas Daniel-San?
