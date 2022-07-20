@@ -1,3 +1,5 @@
+# WINNERS
+[LoezAnya](https://github.com/LoezAnya)
 # Giveaway-001
  ## Premio - $30 Giftcard! 💰 Deadline - 20 de Julio 2022.
  ## Como participar 
